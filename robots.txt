@@ -1,0 +1,11 @@
+# robots.txt para Valor Financiamentos
+
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+# Permitir acesso a todas as outras áreas do site
+Allow: /
+
+# Sitemap location
+Sitemap: https://valorfinanciamentos.com.br/sitemap.xml
